@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Projekt1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Antylopa.cpp
+  Barszcz_sosnowskiego.cpp
+  Czlowiek.cpp
+  WorldCreator.cpp
+  Guarana.cpp
+  Lis.cpp
+  main.cpp
+C:\coding\studia\Programowanie Obiektowe\ProjektC++wirtualny_swiat\Projekt1 C++\Projekt1\main.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Roslina.cpp
+  Swiat.cpp
+C:\coding\studia\Programowanie Obiektowe\ProjektC++wirtualny_swiat\Projekt1 C++\Projekt1\Swiat.cpp(326,12): warning C4101: 'atakujacy': unreferenced local variable
+  Trawa.cpp
+  Wilcze_jagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generating Code...
+C:\coding\studia\Programowanie Obiektowe\ProjektC++wirtualny_swiat\Projekt1 C++\Projekt1\Zwierze.cpp(290): warning C4715: 'Zwierze::StworzOrganizm': not all control paths return a value
+C:\coding\studia\Programowanie Obiektowe\ProjektC++wirtualny_swiat\Projekt1 C++\Projekt1\Roslina.cpp(110): warning C4715: 'Roslina::StworzOrganizm': not all control paths return a value
+  Projekt1.vcxproj -> C:\coding\studia\Programowanie Obiektowe\ProjektC++wirtualny_swiat\Projekt1 C++\x64\Debug\wirtualny_swiat.exe
